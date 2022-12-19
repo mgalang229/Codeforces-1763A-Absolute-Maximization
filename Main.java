@@ -6,8 +6,6 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.StringTokenizer;
 
-// Problem link: https://codeforces.com/contest/1763/problem/A
-
 public class Main {
 	
 	public static void main(String[] args) {	
